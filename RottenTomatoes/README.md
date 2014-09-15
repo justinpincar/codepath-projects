@@ -25,4 +25,5 @@ It was insanely frustrating to do this project. The lecture only covered the ext
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](anim_rotten_tomatoes.gif)
+![Video Walkthrough](RottenTomatoes.gif)
+
